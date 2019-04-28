@@ -1,0 +1,405 @@
+{
+  "dishes": [
+    {
+      "id": "0",
+      "name": "Uthappizza",
+      "image": "images/uthappizza.png",
+      "category": "mains",
+      "featured": true,
+      "label": "Hot",
+      "price": "4.99",
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "author": "Test Author",
+          "rating": "5",
+          "comment": "Test Comment",
+          "date": "2019-04-28T16:36:06.755Z"
+        },
+        {
+          "author": "Test Author",
+          "rating": "5",
+          "comment": "Test Comment",
+          "date": "2019-04-28T16:40:41.326Z"
+        },
+        {
+          "author": "Test Author",
+          "rating": "5",
+          "comment": "Test Comment",
+          "date": "2019-04-28T16:45:30.244Z"
+        },
+        {
+          "author": "Test Author",
+          "rating": "5",
+          "comment": "Test Comment",
+          "date": "2019-04-28T16:52:14.618Z"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Zucchipakoda",
+      "image": "images/zucchipakoda.png",
+      "category": "appetizer",
+      "featured": false,
+      "label": "",
+      "price": "1.99",
+      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        },
+        {
+          "author": "abhi",
+          "rating": 4,
+          "comment": "yummy",
+          "date": "2019-04-27T20:50:22.236Z"
+        },
+        {
+          "author": "asdsds",
+          "rating": 4,
+          "comment": "csdcdscsd",
+          "date": "2019-04-28T11:21:13.963Z"
+        },
+        {
+          "author": "akki",
+          "rating": 2,
+          "comment": "jkbijbj",
+          "date": "2019-04-28T12:17:52.343Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vadonut",
+      "image": "images/vadonut.png",
+      "category": "appetizer",
+      "featured": false,
+      "label": "New",
+      "price": "1.99",
+      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ElaiCheese Cake",
+      "image": "images/elaicheesecake.png",
+      "category": "dessert",
+      "featured": false,
+      "label": "",
+      "price": "2.99",
+      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
+      "comments": [
+        {
+          "rating": 5,
+          "comment": "Imagine all the eatables, living in conFusion!",
+          "author": "John Lemon",
+          "date": "2012-10-16T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Sends anyone to heaven, I wish I could get my mother-in-law to eat it!",
+          "author": "Paul McVites",
+          "date": "2014-09-05T17:57:28.556094Z"
+        },
+        {
+          "rating": 3,
+          "comment": "Eat it, just eat it!",
+          "author": "Michael Jaikishan",
+          "date": "2015-02-13T17:57:28.556094Z"
+        },
+        {
+          "rating": 4,
+          "comment": "Ultimate, Reaching for the stars!",
+          "author": "Ringo Starry",
+          "date": "2013-12-02T17:57:28.556094Z"
+        },
+        {
+          "rating": 2,
+          "comment": "It's your birthday, we're gonna party!",
+          "author": "25 Cent",
+          "date": "2011-12-02T17:57:28.556094Z"
+        }
+      ]
+    }
+  ],
+  "promotions": [
+    {
+      "id": "0",
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "featured": true,
+      "label": "New",
+      "price": "19.99",
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    }
+  ],
+  "leadership": [
+    {
+      "id": "0",
+      "name": "Peter Pan",
+      "image": "images/alberto.png",
+      "designation": "Chief Epicurious Officer",
+      "featured": false,
+      "abbr": "CEO",
+      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": "1",
+      "name": "Dhanasekaran Witherspoon",
+      "image": "images/alberto.png",
+      "designation": "Chief Food Officer",
+      "featured": false,
+      "abbr": "CFO",
+      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": "2",
+      "name": "Agumbe Tang",
+      "image": "images/alberto.png",
+      "designation": "Chief Taste Officer",
+      "featured": false,
+      "abbr": "CTO",
+      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+    },
+    {
+      "id": "3",
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "designation": "Executive Chef",
+      "featured": true,
+      "abbr": "EC",
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Bheem",
+      "lastname": "Singh",
+      "telnum": "745554",
+      "email": "abhik@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "sdsad",
+      "id": 1
+    },
+    {
+      "firstname": "asdcsacsac",
+      "lastname": "jhy",
+      "telnum": "4555221122",
+      "email": "abhik@gmail.com",
+      "agree": null,
+      "contacttype": null,
+      "message": "dsdsd",
+      "id": 2
+    },
+    {
+      "firstname": "aSA",
+      "lastname": "DFDFS",
+      "telnum": "54645",
+      "email": "g@gmail.com",
+      "agree": false,
+      "contacttype": "Tel",
+      "message": "fghfhgfvhg",
+      "id": 3
+    },
+    {
+      "firstname": "chota ",
+      "lastname": "bheem",
+      "telnum": "45125787",
+      "email": "abhik@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "765435",
+      "id": 4
+    },
+    {
+      "firstname": "Bheem",
+      "lastname": "Singh",
+      "telnum": "784524556523",
+      "email": "abhik@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "cgfcgfcfgc",
+      "id": 5
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "kumar",
+      "telnum": "564789787",
+      "email": "Avisek.cool@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "67468746846",
+      "id": 6
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "kumar",
+      "telnum": "457858",
+      "email": "asd@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "b bn nb bn b",
+      "id": 7
+    },
+    {
+      "firstname": "Abhishek",
+      "lastname": "kumar",
+      "telnum": "4588665",
+      "email": "assdfs@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "sdvsdcfcfsdv",
+      "id": 8
+    },
+    {
+      "firstname": "xcdxcd",
+      "lastname": "fdgfg",
+      "telnum": "555",
+      "email": "c@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "fv v  v ",
+      "id": 9
+    },
+    {
+      "firstname": "fdvdvdv",
+      "lastname": "fbfddv",
+      "telnum": "455585",
+      "email": "dwd@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "dfdrrr",
+      "id": 10
+    },
+    {
+      "firstname": "sdsdsdxs",
+      "lastname": "dvfdvfdvfdv",
+      "telnum": "784512",
+      "email": "gydyt@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "xcxcxc",
+      "id": 11
+    },
+    {
+      "firstname": "kyufytftyfv",
+      "lastname": "uyguyg",
+      "telnum": "455676",
+      "email": "f@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "yuftfvtvtuvc",
+      "id": 12
+    },
+    {
+      "firstname": "xcxc",
+      "lastname": "c c ",
+      "telnum": "4555",
+      "email": "dcdfdf@gmail.com",
+      "agree": true,
+      "contacttype": "Tel",
+      "message": "cvcvcv",
+      "id": 13
+    },
+    {
+      "firstname": "dsfdsfdsc",
+      "lastname": "gbgrbrgb",
+      "telnum": "785423",
+      "email": "a@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "gfvfvfv",
+      "id": 14
+    }
+  ]
+}
